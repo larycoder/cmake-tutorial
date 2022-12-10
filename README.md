@@ -8,7 +8,7 @@ of office website to study about this build automation tool.
 ```
 mkdir Step${X}_build
 cd Step${X}_build
-cmake ../StepS{X}
+cmake ../Step${X}
 cmake --build .
 ```
 
